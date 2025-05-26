@@ -1,5 +1,5 @@
-#include <QPainter>  // Для QPainter
-#include <QTimerEvent>  // Для QTimerEvent
+#include <QPainter>
+#include <QTimerEvent>
 #include "area.h"
 Area::Area(QWidget *parent):QWidget(parent)
 {
